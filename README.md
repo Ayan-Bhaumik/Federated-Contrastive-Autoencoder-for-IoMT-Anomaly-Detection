@@ -1,4 +1,4 @@
-# Federated Learning for IoT Anomaly Detection
+# Federated Learning for IoMT Anomaly Detection
 
 This project demonstrates a federated learning approach for anomaly detection in IoT environments using an autoencoder neural network.
 

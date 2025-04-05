@@ -2,6 +2,17 @@
 
 This project demonstrates a federated learning approach for anomaly detection in IoT environments using an autoencoder neural network.
 
+## 👨💻 **Developer**  
+### **Ayan Bhaumik**  
+<div align="center" style="margin:20px 0">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayanbhaumik.in/)
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-bhaumik/)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@ayanbhaumik.in)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayan-Bhaumik)
+
+</div>
+
 ## Overview
 
 The system implements:
@@ -84,3 +95,12 @@ The model outputs:
 ## License
 
 This project is open-source and available under the MIT License.
+
+## 📬 **Contact**  
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📨_connect@ayanbhaumik.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@ayanbhaumik.in)
+[![LinkedIn](https://img.shields.io/badge/👔_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-bhaumik/)
+
+</div>
